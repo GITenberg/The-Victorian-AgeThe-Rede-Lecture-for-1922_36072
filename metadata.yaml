@@ -1,0 +1,33 @@
+_repo: The-Victorian-AgeThe-Rede-Lecture-for-1922_36072
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Inge, William Ralph
+    aliases:
+    - Inge, Dean (William Ralph)
+    - Inge, W. R. (William Ralph)
+    birthdate: 1860
+    deathdate: 1954
+    gutenberg_agent_id: '1534'
+    url: http://www.gutenberg.org/2009/agents/1534
+    wikipedia: http://en.wikipedia.org/wiki/William_Ralph_Inge
+description: ''
+gutenberg_issued: '2011-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36072'
+  lccn: '22016890'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English literature -- 19th century -- History and criticism'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901'
+title: 'The Victorian Age: The Rede Lecture for 1922'
+url: http://www.gutenberg.org/ebooks/36072
